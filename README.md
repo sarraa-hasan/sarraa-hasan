@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarraa-hasan
-- 👀 I’m interested in UX/UI
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on ...( i donn't know yet :D)
+- 👀 I’m interested in UX Design
+- 🌱 I’m currently learning Adroid & web 
+- 💞️ I’m looking to collaborate on ...( i don't know yet :D)
 - 📫 How to reach me ... sarraahasan@gmail.com
 
 <!---
